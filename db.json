@@ -1,0 +1,7 @@
+{
+  "success": true,
+  "message": "OTP verified successfully.",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9ddddredsa",     
+  "userId": 12345,
+  “mobileNo” : “8888844545”
+}
